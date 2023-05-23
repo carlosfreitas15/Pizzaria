@@ -1,0 +1,34 @@
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\bin\Debug\net6.0-windows\Ex6_Pizza.exe
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\bin\Debug\net6.0-windows\Ex6_Pizza.deps.json
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\bin\Debug\net6.0-windows\Ex6_Pizza.runtimeconfig.json
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\bin\Debug\net6.0-windows\Ex6_Pizza.dll
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\bin\Debug\net6.0-windows\Ex6_Pizza.pdb
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.vbproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.Form1.resources
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.vbproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.AssemblyInfo.vb
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.dll
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\refint\Ex6_Pizza.dll
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.pdb
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\ref\Ex6_Pizza.dll
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\bin\Debug\net6.0-windows\Ex6_Pizza.exe
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\bin\Debug\net6.0-windows\Ex6_Pizza.deps.json
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\bin\Debug\net6.0-windows\Ex6_Pizza.runtimeconfig.json
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\bin\Debug\net6.0-windows\Ex6_Pizza.dll
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\bin\Debug\net6.0-windows\Ex6_Pizza.pdb
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.vbproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.Form1.resources
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.vbproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.AssemblyInfo.vb
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.dll
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\refint\Ex6_Pizza.dll
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.pdb
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\Ex6_Pizza.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\UCFD - VB .net\Ex6_Pizza\Ex6_Pizza\obj\Debug\net6.0-windows\ref\Ex6_Pizza.dll
